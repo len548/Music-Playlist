@@ -1,0 +1,98 @@
+/* Reset default margin and padding for all elements */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Basic styling for the header */
+header {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Basic styling for the main content */
+main {
+    padding: 20px;
+}
+
+/* Styling for the playlist container */
+.playlist {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+/* Styling for the search form */
+.search-form {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.search-form input[type="text"] {
+    padding: 10px;
+    width: 300px;
+}
+
+.search-form button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+/* Styling for the track container */
+.track {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+/* Styling for the add track form */
+.add-track-form {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.add-track-form select {
+  padding: 8px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-right: 10px;
+}
+
+.add-track-form button {
+  padding: 8px 16px;
+  font-size: 14px;
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.add-track-form button:hover {
+  background-color: #45a049;
+}
+
+.add-track-form button:focus {
+  outline: none;
+}
+
+.add-track-form button:active {
+  background-color: #3e8e41;
+  transform: translateY(1px);
+}
+
+
+footer {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+}

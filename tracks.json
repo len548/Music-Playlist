@@ -1,0 +1,46 @@
+{
+    "track_id1": {
+        "title": "title1",
+        "artist": "artist1",
+        "length": 211,
+        "year": 2019,
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "id": "track_id1"
+    },
+    "track_id2": {
+        "title": "Baby One More Time",
+        "artist": "Britney Spears",
+        "length": 237,
+        "year": 1998,
+        "genres": [
+            "dance pop",
+            "teen pop"
+        ],
+        "id": "track_id2"
+    },
+    "track_id3": {
+        "title": "It's my life",
+        "artist": "Bon Jovi",
+        "length": 224,
+        "year": 2000,
+        "genres": [
+            "pop rock",
+            "arena rock"
+        ],
+        "id": "track_id3"
+    },
+    "track_id4": {
+        "title": "Suerte",
+        "artist": "Shakira",
+        "length": 196,
+        "year": 2001,
+        "genres": [
+            "worldbeat",
+            "latin"
+        ],
+        "id": "track_id4"
+    }
+}

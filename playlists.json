@@ -1,0 +1,58 @@
+{
+    "playlist_id1": {
+        "name": "playlist_name1",
+        "creator": "userid3",
+        "tracks": [
+            "track_id1",
+            "track_id2",
+            "track_id3"
+        ],
+        "isPublic": true
+    },
+    "playlist_id2": {
+        "name": "Best early 2000s hits",
+        "creator": "userid2",
+        "tracks": [
+            "track_id2",
+            "track_id3"
+        ],
+        "isPublic": true
+    },
+    "playlist_id3": {
+        "name": "Pretty ladies who sing",
+        "creator": "userid1",
+        "tracks": [
+            "track_id1",
+            "track_id3"
+        ],
+        "isPublic": true
+    },
+    "6484fc04d8157": {
+        "name": "asdf",
+        "creator": "name1",
+        "tracks": [
+            "track_id2"
+        ],
+        "isPublic": false
+    },
+    "648507ad2bc9a": {
+        "name": "new playlist for name4",
+        "creator": "648507807138d",
+        "tracks": [
+            "track_id2",
+            "track_id1",
+            "track_id3"
+        ],
+        "isPublic": false
+    },
+    "648507ea8159d": {
+        "name": "sdjf",
+        "creator": "648507807138d",
+        "tracks": [
+            "track_id2",
+            "track_id3",
+            "track_id4"
+        ],
+        "isPublic": false
+    }
+}

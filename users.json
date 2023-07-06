@@ -1,0 +1,58 @@
+{
+    "userid1": {
+        "id": "userid1",
+        "username": "admin",
+        "email": "email1.email.hu",
+        "password": "$2y$10$dpzY\/zQntjg1L7hV3EsxkOEOcDXwhZUwM4QPf\/7Xyc0MLZyK.Ubqm",
+        "isAdmin": true
+    },
+    "userid2": {
+        "id": "userid2",
+        "username": "user2",
+        "email": "email2.email.hu",
+        "password": "pw2",
+        "isAdmin": false
+    },
+    "userid3": {
+        "id": "userid3",
+        "username": "user3",
+        "email": "email3.email.hu",
+        "password": "pw3",
+        "isAdmin": false
+    },
+    "6483684fe5b2b": {
+        "id": "6483684fe5b2b",
+        "username": "Ren Koike",
+        "email": "o83aqr@inf.elte.hu",
+        "password": "$2y$10$slDFGUovIuikPnzGOGoCV.Y\/NbbcETVmuKALFtNW.Pxul9OpWnE6S",
+        "isAdmin": false
+    },
+    "648372b494fa1": {
+        "id": "648372b494fa1",
+        "username": "name2",
+        "email": "adssq@gmail.com",
+        "password": "$2y$10$22cBPW7zUnRAdzDi5vM1m.pnzobc64FOXKfZYhRJzYOmACPEHJDOS",
+        "isAdmin": false
+    },
+    "6483734a34fb5": {
+        "id": "6483734a34fb5",
+        "username": "name3",
+        "email": "adssq@gmail.com",
+        "password": "$2y$10$Y8WEZtu2999ehn8Er\/ksj.OrD.nNvdeDQ0FormYwNknmWqLWtQwri",
+        "isAdmin": false
+    },
+    "64847f2b5329d": {
+        "id": "64847f2b5329d",
+        "username": "name1",
+        "email": "ojje@email.com",
+        "password": "$2y$10$K6UKBW5G8ee1etwZ3QVb3uRFATXllH\/BtaDhndvizEW6KznNmHNJG",
+        "isAdmin": false
+    },
+    "648507807138d": {
+        "username": "name4",
+        "email": "af@hid.com",
+        "password": "$2y$10$TZ1VtMZ6m7ZVr2Dw3a.9ve4ort1PuHcfwIwVQPKIVy8STwW870fTO",
+        "isAdmin": false,
+        "id": "648507807138d"
+    }
+}
